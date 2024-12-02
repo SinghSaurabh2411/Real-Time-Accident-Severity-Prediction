@@ -3,7 +3,7 @@
 This project involves designing a real-time machine learning , Deep learning system that predicts the severity of road accidents using historical and live data. The system is primarily aimed at enabling emergency responders to allocate resources effectively based on the predicted severity, ultimately aiming to reduce mortality rates in severe accidents.
 
 ## Architecture
-![Cloud Pipeline Architecture](Architecture.jpeg)
+![Architecture]https://github.com/SinghSaurabh2411/Real-Time-Accident-Severity-Prediction/blob/main/Architecture.jpeg
 
 ## Technology Used
 1. Programming Language - Python
